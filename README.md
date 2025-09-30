@@ -1,32 +1,28 @@
-# 📱 Android Hello World
+# Android Studio Project Setup
 
-Welcome to my first Android project! 🚀  
-This is a simple **Hello World** application built with **Android Studio** as part of my learning journey in Android development.
+## Deliverable 1: Screenshot of the Android Studio Tree
+
+This deliverable shows the **project structure** inside Android Studio.
+
+### Steps to Capture the Screenshot
+
+1. Open the project in **Android Studio**.
+2. Go to the **Project Tool Window** (usually on the left side).
+3. Select the **Android** or **Project** view from the dropdown at the top.
+4. Expand the **`app/`** module to show:
+   - `src/main/java/...` (with `MainActivity.kt`)
+   - `src/main/res/values/strings.xml`
+   - `src/main/AndroidManifest.xml`
+   - `app/build.gradle.kts`
+5. Take a screenshot of this tree view.
+
+### Example
+*(Tree_structur_image.png)*
+
+![Project Tree Screenshot](Tree_structur_image.png)
 
 ---
 
-## ✨ Features
-- Displays a "Hello World" message
-- Built using **Java/Kotlin** and **Android Studio**
-- Runs on Android devices and emulators
-
----
-
-## 🛠️ Tech Stack
-- **Language**: Kotlin / Java  
-- **IDE**: Android Studio  
-- **Build System**: Gradle  
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Make sure you have the following installed:
-- [Android Studio](https://developer.android.com/studio)
-- Android SDK & Emulator (or a physical Android device with USB debugging enabled)
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/essachiAli/Android-Studio.git
+## Notes
+- The screenshot demonstrates that the project contains the required structure for the assignment.  
+- Later deliverables (Manifest, `strings.xml`, `build.gradle.kts`) build on this setup.
